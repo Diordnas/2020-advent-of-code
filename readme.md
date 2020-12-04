@@ -1,0 +1,1 @@
+This code has trash varaiable names because I was partially in a golfing mindset.
